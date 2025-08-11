@@ -1,6 +1,8 @@
 readme
 
 ---
+
+```
 Thank you all for being here. We're going to wait another minute or two to let people enter.
 04:49
 All right, I want to be respectful of people's time. Thank you all for being here. My name is Wendy Hunter Barker. I am the assistant Dean on strategy and external relations here at the Rady school. And it is my pleasure to welcome you to the 2025 MBA micro MBA program.
@@ -498,3 +500,5 @@ Yeah, so. You want to think about. Do you care more about trust? Do you care abo
 Ucsd are micro MBA people. We're going to post the slides online. Yes, okay, thumbs up perfect. All right, thank you so much.
 01:42:53
 Thank you so much, Pamela. Recording stopped. Thank you. That was an awesome lecture! Thank you, thank you! Amazing! So interesting, thank you so much. Yeah, thank you so much. Thank you, thank you. Thank you.
+```
+
