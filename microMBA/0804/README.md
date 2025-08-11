@@ -6,6 +6,10 @@ https://note.com/seigot/n/n02d1aacda7da
 
 ---
 
+https://note.com/seigot/n/n71708af28193
+
+---
+
 Innovation Strategy: From Needs and Seeds to Market Impact 振り返り
 
 2
