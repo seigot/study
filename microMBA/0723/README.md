@@ -1,5 +1,9 @@
 readme
 
+---
+https://note.com/seigot/n/n30d918b146ac
+---
+
 ```
 01:08
 Can everyone hear me? Yes, sounds good. Okay.
