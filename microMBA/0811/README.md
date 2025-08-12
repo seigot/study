@@ -2,6 +2,10 @@ readme
 
 ---
 
+https://note.com/seigot/n/nfa461897cb1e
+
+---
+
 ```
 Corporate Finance
 
