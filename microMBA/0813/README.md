@@ -1,5 +1,7 @@
 readme
 
+https://note.com/seigot/n/ndf3b3112c144  
+
 ---
 
 ```
